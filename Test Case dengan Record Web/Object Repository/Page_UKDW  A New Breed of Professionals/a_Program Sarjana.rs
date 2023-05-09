@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Program Sarjana</name>
+   <tag></tag>
+   <elementGuidId>dc415af2-ad0a-4caa-b9d7-e20c553a1c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-804 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-804']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9441a84c-f838-44dd-b8a5-b6e533c3bc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b847faba-7896-4946-a1d0-d6aeb878abff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program Sarjana</value>
+      <webElementGuid>9980a328-b94a-4436-83c1-1f48c764cb41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-menu&quot;)/li[@id=&quot;menu-item-745&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@id=&quot;menu-item-798&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@id=&quot;menu-item-804&quot;]/a[1]</value>
+      <webElementGuid>dfa86d4d-cda6-407b-8ff7-78f4aa822116</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-804']/a</value>
+      <webElementGuid>066f836e-08ca-490f-be3e-4c235f54e35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Program Sarjana')])[5]</value>
+      <webElementGuid>9991091d-ad57-48ba-aa78-4170ac1bd332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fakultas Teknologi Informasi'])[1]/following::a[1]</value>
+      <webElementGuid>ff5ca6de-c3a4-4b7c-a43f-c10ede8aa57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magister Manajemen'])[1]/following::a[2]</value>
+      <webElementGuid>02630761-600f-4b8a-8e20-1e8297b94599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informatika'])[1]/preceding::a[1]</value>
+      <webElementGuid>f84ad35d-8a6d-4bf0-be3c-8f6d1c44afec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Informasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>d220525e-3b85-4feb-8fcd-22f5cdbc6561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>51c125d7-de7c-4087-b108-b370c901b9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[5]/ul/li/a</value>
+      <webElementGuid>2c6d3272-918f-4868-a3ab-2ca0e9dba688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Program Sarjana' or . = 'Program Sarjana')]</value>
+      <webElementGuid>d85a2983-4c66-4c13-9919-287027962a1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
